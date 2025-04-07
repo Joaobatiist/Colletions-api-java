@@ -36,6 +36,6 @@ public class item {
     }
 
     public String toString(){
-        return "Produto: " + nome + " Valor: " + preco+ "R$, " + "quantidade: " + quantidade;
+        return "Produto: " + nome + " Valor: " + preco + "R$, " + "quantidade: " + quantidade;
     }
 }
